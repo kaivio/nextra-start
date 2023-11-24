@@ -18,14 +18,22 @@
   },
   "homepage": "https://github.com/shuding/nextra-docs-template#readme",
   "dependencies": {
+    "@tiptap/pm": "^2.1.12",
+    "@tiptap/react": "^2.1.12",
+    "@tiptap/starter-kit": "^2.1.12",
+    "@toast-ui/react-editor": "^3.2.3",
     "@types/got": "^9.6.12",
+    "@uiw/react-md-editor": "^4.0.0",
     "@vercel/node": "^3.0.11",
+    "easymde": "^2.18.0",
     "got": "^13.0.0",
     "next": "^13.0.6",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
+    "novel": "^0.1.22",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "stackedit-js": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "18.11.10",
